@@ -324,3 +324,27 @@ body {
 .lineit {
 	border-bottom: 2px solid white;
 }
+
+
+
+
+@media(min-width: 360px) {
+	.spacing-up {
+		left: 7%;
+	}
+}
+
+
+@media(min-width: 768px) {
+	.spacing-up {
+		left: 20%;
+	}
+}
+
+
+
+@media(min-width: 1024px) {
+	.spacing-up {
+		left: 25%;
+	}
+}
